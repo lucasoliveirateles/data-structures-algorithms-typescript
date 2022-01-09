@@ -6,3 +6,4 @@
   * Ordering strings
   * Removing element to the end of array
   * Removing element to the start of array
+  * Fibonacii
