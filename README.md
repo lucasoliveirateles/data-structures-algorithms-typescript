@@ -13,3 +13,4 @@
 ## Algorithms
  * Paginate array
  * Bubble sort
+ * Remove duplicate data
