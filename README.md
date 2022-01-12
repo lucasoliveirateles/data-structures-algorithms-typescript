@@ -12,3 +12,4 @@
 
 ## Algorithms
  * Paginate array
+ * Bubble sort
