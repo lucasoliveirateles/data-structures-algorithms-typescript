@@ -8,9 +8,10 @@
   * Ordering strings
   * Removing element to the end of array
   * Removing element to the start of array
-  * Fibonacii
-
+  
 ## Algorithms
  * Paginate array
  * Bubble sort
  * Remove duplicate data
+ * Fibonacii
+ * Reverse array
