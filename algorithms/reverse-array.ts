@@ -1,4 +1,4 @@
-/* Reverse array */
+/* Reverse array 1 */
 const input: number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 const reverseArray = (input: number[]): number[] => {
@@ -16,3 +16,8 @@ const reverseArray = (input: number[]): number[] => {
 const result = reverseArray(input);
 
 console.log(result);
+
+/* Reverse array 2 */
+const reverse = input.reverse();
+
+console.log(reverse);
