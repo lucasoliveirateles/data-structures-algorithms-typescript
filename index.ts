@@ -19,3 +19,9 @@ const linked = new LinkedList();
 
 linked.push(15);
 linked.push(10);
+linked.push(5);
+linked.push(20);
+
+linked.removeAt(2);
+
+console.log(linked.head);
