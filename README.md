@@ -15,3 +15,4 @@
  * Remove duplicate data
  * Fibonacii
  * Reverse array
+ * Linked List
